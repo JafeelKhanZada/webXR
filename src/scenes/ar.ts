@@ -7,6 +7,7 @@ import { Vector3 } from '@babylonjs/core/Maths/math.vector';
 import { SphereBuilder } from '@babylonjs/core/Meshes/Builders/sphereBuilder';
 import { Scene } from '@babylonjs/core/scene';
 import "@babylonjs/core/Materials/standardMaterial";
+import "@babylonjs/core/Materials/standardMaterial";
 
 
 
